@@ -1,3 +1,4 @@
+require 'date'
 class Application
  
   def call(env)
